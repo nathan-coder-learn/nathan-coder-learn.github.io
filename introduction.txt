@@ -1,1 +1,7 @@
 My name is Nathan. I recently tried coding with python and really enjoyed it. In fact, I enjoyed almost every python lesson. I learnt coding with python using turtle and pygame.
+I decided to try coding with python in the first place as it seemed fun and there is an endless possibility of projects you can code out of python.
+Furthermore, python is easy to understand, easy to read and also easy to edit too!
+Why I decided to learn coding:
+Actually, I never thought of learning to code in the first place before trying out coding to waste some time. But I actually ended up enjoying it, and made some cool stuff out of it.
+Why do I enjoy coding? The reason is because you can use coding to do endless stuff. You can make a game, control robots, and even make your own website and so on!
+Coding could be difficult, but once you finish a project, big or small, you would feel a sense of accomplishment.
