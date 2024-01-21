@@ -4,4 +4,4 @@ Furthermore, python is easy to understand, easy to read and also easy to edit to
 Why I decided to learn coding:
 Actually, I never thought of learning to code in the first place before trying out coding to waste some time. But I actually ended up enjoying it, and made some cool stuff out of it.
 Why do I enjoy coding? The reason is because you can use coding to do endless stuff. You can make a game, control robots, and even make your own website and so on!
-Coding could be difficult, but once you finish a project, big or small, you would feel a sense of accomplishment.
+Coding could be difficult, but every time I finish a project, big or small, I would feel a sense of accomplishment. On top of that, I could have a new interesting project which I could try out and possibly even enjoy.
